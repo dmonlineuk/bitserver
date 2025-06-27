@@ -11,5 +11,7 @@ sudo pacman -S nodejs npm nvm
 # Don't forget to add the initializer line to `.bashrc`
 
 git clone https://github.com/dmonlineuk/bitserver.git
+cd bitserver
+npm install express
 ```
 
